@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace AirQualityMonitoring
+namespace AirQualityMonitoring2
 {
     /// <summary>
     /// Модель даних якості повітря

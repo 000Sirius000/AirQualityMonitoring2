@@ -6,7 +6,7 @@ using System.Linq;
 using System.Windows.Forms;
 using System.IO;
 
-namespace AirQualityMonitoring
+namespace AirQualityMonitoring2
 {
     public partial class MainForm : Form
     {

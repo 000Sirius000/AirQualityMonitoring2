@@ -1,4 +1,4 @@
-namespace AirQualityMonitoring
+namespace AirQualityMonitoring2
 {
     internal static class Program
     {

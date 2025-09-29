@@ -1,4 +1,4 @@
-﻿namespace AirQualityMonitoring
+﻿namespace AirQualityMonitoring2
 {
     partial class MainForm
     {
