@@ -6,6 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+	<PackageId>AirQualityMonitoring</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Тарнавський_Микита</Authors>
+	<Company>MyCompany</Company>
+	<Description>Лабораторна_2</Description>
   </PropertyGroup>
 
   <ItemGroup>
